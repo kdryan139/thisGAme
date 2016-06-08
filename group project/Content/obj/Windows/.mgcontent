@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/group project(Update)/group project/Content/jump.wav</File>
+    <File>D:/group project(Update)/group project/Content/backgrounds.png</File>
+    <File>D:/group project(Update)/group project/Content/backgrounds2.png</File>
+    <File>D:/group project(Update)/group project/Content/bullet.png</File>
+    <File>D:/group project(Update)/group project/Content/controlbutton.png</File>
+    <File>D:/group project(Update)/group project/Content/controlmenu.png</File>
+    <File>D:/group project(Update)/group project/Content/exitbutton.png</File>
+    <File>D:/group project(Update)/group project/Content/fire.png</File>
+    <File>D:/group project(Update)/group project/Content/fire2.png</File>
+    <File>D:/group project(Update)/group project/Content/frame1.png</File>
+    <File>D:/group project(Update)/group project/Content/gameoverback.png</File>
+    <File>D:/group project(Update)/group project/Content/health.png</File>
+    <File>D:/group project(Update)/group project/Content/health2.png</File>
+    <File>D:/group project(Update)/group project/Content/menuback.png</File>
+    <File>D:/group project(Update)/group project/Content/playbutton.png</File>
+    <File>D:/group project(Update)/group project/Content/player.png</File>
+    <File>D:/group project(Update)/group project/Content/playerleft.png</File>
+    <File>D:/group project(Update)/group project/Content/returnbutton.png</File>
+    <File>D:/group project(Update)/group project/Content/spark.png</File>
+    <File>D:/group project(Update)/group project/Content/Tile1.png</File>
+    <File>D:/group project(Update)/group project/Content/Tile2.png</File>
+    <File>D:/group project(Update)/group project/Content/Tile3.png</File>
+    <File>D:/group project(Update)/group project/Content/1.png</File>
+    <File>D:/group project(Update)/group project/Content/22121.png</File>
+  </SourceFiles>
+</SourceFileCollection>

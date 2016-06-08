@@ -1,0 +1,506 @@
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\group project.exe.config
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\Content\Tile1.png
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\Content\Tile2.png
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\group project.exe
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\group project.pdb
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\obj\x86\Debug\group project.exe
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\obj\x86\Debug\group project.pdb
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\Group project\group project\bin\Windows\Debug\Content\fire.png
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\Group project\group project\bin\Windows\Debug\Content\spark.png
+C:\Users\James Brown\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\Content\player.png
+C:\Users\emma.rose\Documents\Visual Studio 2015\Projects\group project\group project\bin\Windows\Debug\group project.exe.config
+C:\Users\emma.rose\Documents\Visual Studio 2015\Projects\group project\group project\obj\x86\Debug\group project.exe
+C:\Users\emma.rose\Documents\Visual Studio 2015\Projects\group project\group project\obj\x86\Debug\group project.pdb
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\group project.exe.config
+F:\group project (28.4.2016)\group project\obj\x86\Debug\group project.exe
+F:\group project (28.4.2016)\group project\obj\x86\Debug\group project.pdb
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\Content\fire.png
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\Content\player.png
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\Content\spark.png
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\Content\Tile1.png
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\Content\Tile2.png
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\group project.exe
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\group project.pdb
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\group project (28.4.2016)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+F:\group project (28.4.2016)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\group project.exe.config
+E:\group project (30.4.2016)\group project\obj\x86\Debug\group project.exe
+E:\group project (30.4.2016)\group project\obj\x86\Debug\group project.pdb
+E:\group project (30.4.2016)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\fire.png
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\player.png
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\spark.png
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\Tile1.png
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\Tile2.png
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\group project.exe
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\group project.pdb
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\group project.exe.config
+F:\group project (30.4.2016)\group project\obj\x86\Debug\group project.exe
+F:\group project (30.4.2016)\group project\obj\x86\Debug\group project.pdb
+F:\group project (30.4.2016)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\bullet.png
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\fire.png
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\player.png
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\spark.png
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\Tile1.png
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\Tile2.png
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\group project.exe
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\group project.pdb
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\group project (30.4.2016)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\group project.exe.config
+C:\Users\James Brown\Desktop\group project\group project\obj\x86\Debug\group project.exe
+C:\Users\James Brown\Desktop\group project\group project\obj\x86\Debug\group project.pdb
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\bullet.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\fire.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\player.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\spark.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\Tile1.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\Tile2.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\group project.exe
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\group project.pdb
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\James Brown\Desktop\group project\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\backgrounds.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\controlbutton.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\exitbutton.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\gameoverback.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\menuback.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\playbutton.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\controlmenu.png
+C:\Users\James Brown\Desktop\group project\group project\bin\Windows\Debug\Content\returnbutton.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+C:\Users\James Brown\Desktop\group project(Update)\group project\obj\x86\Debug\group project.exe
+C:\Users\James Brown\Desktop\group project(Update)\group project\obj\x86\Debug\group project.pdb
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\bullet.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\fire.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\menuback.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\player.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\spark.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.png
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\group project.exe
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\group project.pdb
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\James Brown\Desktop\group project(Update)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.exe
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.pdb
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\bullet.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\fire.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\menuback.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\player.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\spark.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.png
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.exe
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.pdb
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\jbrown01\Desktop\Work\Programming\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.exe
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.pdb
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\bullet.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\fire.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\menuback.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\player.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\spark.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.png
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.exe
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.pdb
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\james.brown\Desktop\today\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+E:\Today\today\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.exe
+E:\Today\today\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.pdb
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\bullet.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\fire.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\menuback.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\player.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\spark.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.png
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.exe
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\group project.pdb
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Today\today\4.5.16\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Today\today\4.5.16\group project(Update)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+D:\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+D:\group project(Update)\group project\obj\x86\Debug\group project.exe
+D:\group project(Update)\group project\obj\x86\Debug\group project.pdb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\bullet.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\fire.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\frame1.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\menuback.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\player.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\spark.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\group project.exe
+D:\group project(Update)\group project\bin\Windows\Debug\group project.pdb
+D:\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\group project(Update)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+C:\Users\james.brown\Desktop\group project(Update)\group project\obj\x86\Debug\group project.exe
+C:\Users\james.brown\Desktop\group project(Update)\group project\obj\x86\Debug\group project.pdb
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\bullet.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\fire.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\frame1.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\menuback.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\player.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\spark.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\group project.exe
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\group project.pdb
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\james.brown\Desktop\group project(Update)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\Tile3.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\health.png
+D:\AIE\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+D:\AIE\group project(Update)\group project\obj\x86\Debug\group project.exe
+D:\AIE\group project(Update)\group project\obj\x86\Debug\group project.pdb
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\health2.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds2.png
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\jump.xnb
+C:\Users\james.brown\Desktop\group project(Update)\group project\bin\Windows\Debug\Content\jump.wav
+D:\group project(Update)\group project\bin\Windows\Debug\Content\jump.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds2.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\health.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\health2.png
+D:\group project(Update)\group project\bin\Windows\Debug\Content\jump.wav
+D:\group project(Update)\group project\bin\Windows\Debug\Content\Tile3.png
+F:\group project(Update)\group project\bin\Windows\Debug\group project.exe.config
+F:\group project(Update)\group project\obj\x86\Debug\group project.exe
+F:\group project(Update)\group project\obj\x86\Debug\group project.pdb
+F:\group project(Update)\group project\bin\Windows\Debug\Content\jump.xnb
+F:\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds2.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\bullet.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\fire.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\frame1.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\health.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\health2.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\jump.wav
+F:\group project(Update)\group project\bin\Windows\Debug\Content\menuback.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\player.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\spark.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\Tile3.png
+F:\group project(Update)\group project\bin\Windows\Debug\Content\scoreFont.xnb
+F:\group project(Update)\group project\bin\Windows\Debug\group project.exe
+F:\group project(Update)\group project\bin\Windows\Debug\group project.pdb
+F:\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\group project(Update)\group project\bin\Windows\Debug\MonoGame.Framework.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.XInput.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\group project(Update)\group project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\group project(Update)\group project\obj\x86\Debug\group project.csprojResolveAssemblyReference.cache
+D:\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\backgrounds2.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\bullet.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\controlbutton.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\controlmenu.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\exitbutton.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\fire.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\fire2.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\frame1.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\gameoverback.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\health.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\health2.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\menuback.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\playbutton.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\player.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\playerleft.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\returnbutton.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\spark.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\Tile1.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\Tile2.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\Tile3.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\1.xnb
+D:\group project(Update)\group project\bin\Windows\Debug\Content\22121.xnb
